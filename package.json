@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devgupta0513/MentorMatch-minor-2.git"
+    "url": "git+https://github.com/harsh7869/MentorMatch-minor-2.git"
   },
  
-  "author": "dev Gupta",
+  "author": "Harsh Shukla",
   "bugs": {
-    "url": "https://github.com/devgupta0513/MentorMatch-minor-2/issues"
+    "url": "https://github.com/harsh7869/MentorMatch-minor-2.git/issues"
   },
   
   "scripts": {
